@@ -1,0 +1,12 @@
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/bin/Debug/net8.0/Logging.Shared.deps.json
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/bin/Debug/net8.0/Logging.Shared.dll
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/bin/Debug/net8.0/Logging.Shared.pdb
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.csproj.AssemblyReference.cache
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.AssemblyInfoInputs.cache
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.AssemblyInfo.cs
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.csproj.CoreCompileInputs.cache
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.dll
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/refint/Logging.Shared.dll
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/Logging.Shared.pdb
+/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/Debug/net8.0/ref/Logging.Shared.dll

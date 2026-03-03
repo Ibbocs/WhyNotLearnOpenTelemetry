@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "99GKxShfA4I=",
+  "success": true,
+  "projectFilePath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Common.Shared/Common.Shared.csproj",
+  "expectedPackageFiles": [
+    "/Users/ibbocs/.nuget/packages/microsoft.io.recyclablememorystream/3.0.1/microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

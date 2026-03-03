@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "leOKZRP0DnE=",
+  "success": true,
+  "projectFilePath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
+  "expectedPackageFiles": [
+    "/Users/ibbocs/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/grpc.core.api/2.52.0/grpc.core.api.2.52.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/grpc.net.client/2.52.0/grpc.net.client.2.52.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/grpc.net.common/2.52.0/grpc.net.common.2.52.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.configuration/3.1.0/microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.configuration.abstractions/3.1.0/microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.configuration.binder/3.1.0/microsoft.extensions.configuration.binder.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.dependencyinjection/3.1.0/microsoft.extensions.dependencyinjection.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/3.1.0/microsoft.extensions.dependencyinjection.abstractions.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.logging/3.1.0/microsoft.extensions.logging.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.logging.abstractions/3.1.0/microsoft.extensions.logging.abstractions.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.logging.configuration/3.1.0/microsoft.extensions.logging.configuration.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.options/3.1.0/microsoft.extensions.options.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.options.configurationextensions/3.1.0/microsoft.extensions.options.configurationextensions.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/microsoft.extensions.primitives/3.1.0/microsoft.extensions.primitives.3.1.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/opentelemetry/1.6.0/opentelemetry.1.6.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/opentelemetry.api/1.6.0/opentelemetry.api.1.6.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/opentelemetry.api.providerbuilderextensions/1.6.0/opentelemetry.api.providerbuilderextensions.1.6.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/opentelemetry.exporter.console/1.6.0/opentelemetry.exporter.console.1.6.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/opentelemetry.exporter.opentelemetryprotocol/1.6.0/opentelemetry.exporter.opentelemetryprotocol.1.6.0.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/system.diagnostics.diagnosticsource/7.0.2/system.diagnostics.diagnosticsource.7.0.2.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg.sha512",
+    "/Users/ibbocs/.nuget/packages/system.text.json/4.7.2/system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}

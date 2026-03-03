@@ -1,0 +1,93 @@
+﻿version: '3.4'
+
+services:
+#  jaeger: //datalar ramda tutulursa
+#    container_name: "jaeger-container"
+#    image: jaegertracing/all-in-one:1.49
+#    ports:
+#      #- 4317:4317 #grpc
+#      #- 4318:4318 #http
+#      - 16686:16686 #ui
+        
+  jaeger:
+    container_name: "jaeger-container-elk"
+    image: jaegertracing/all-in-one:1.76.0
+    restart: unless-stopped
+    ports:
+      - "16686:16686"
+    environment:
+      - SPAN_STORAGE_TYPE=elasticsearch
+      - ES_SERVER_URLS=http://elasticsearch:9200
+      - ES_NUM_SHARDS=1
+      - ES_NUM_REPLICAS=0 #cunki elka single node'di configde
+      - ES_INDEX_PREFIX=jaeger
+      #- COLLECTOR_OTLP_ENABLED=false #otlp baglayiram ki collectordan yigsin
+      - ES_VERSION=8
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+  
+  mssql:
+    image: mcr.microsoft.com/mssql/server:2022-latest
+    platform: linux/amd64
+    environment:
+      - ACCEPT_EULA=Y
+      - MSSQL_SA_PASSWORD=YourStrong!Pass123
+      - MSSQL_PID=Developer
+    ports:
+      - "1433:1433"
+  
+  redis:
+    image: redis:7.0
+    ports:
+      - 6379:6379
+  
+  rabbitmq:
+    image: rabbitmq:3.12.2-management
+    container_name: ims-rabbitmq
+    ports:
+      - "5672:5672"   #broker
+      - "15672:15672" #Ui
+  
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.8.1
+    ports:
+      - "9200:9200"
+    environment:
+      - xpack.security.enabled=false
+      - discovery.type=single-node
+      - ELASTIC_USERNAME=elastic
+      - ELASTIC_PASSWORD=DkIedPPSCb
+    healthcheck:
+      test: [ "CMD-SHELL", "curl -f http://localhost:9200 || exit 1" ]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+    volumes:
+      - elastic_db:/usr/share/elasticsearch/data
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.8.1
+    ports:
+      - "5601:5601"
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    depends_on:
+      - elasticsearch
+  
+  otel-collector:
+    image: otel/opentelemetry-collector-contrib:0.95.0
+    command: ["--config=/etc/otelcol/config.yaml"]
+    container_name: otel-collector
+    ports:
+      - 13133:13133 # health_check extension
+      - 4317:4317 # OTLP gRPC receiver
+      - 4318:4318 # OTLP http receiver
+    volumes:
+      - ./otel-collector-config.yaml:/etc/otelcol/config.yaml
+    depends_on:
+      - jaeger
+      - elasticsearch
+
+volumes:
+  elastic_db:
