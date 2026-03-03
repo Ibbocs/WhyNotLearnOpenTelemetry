@@ -23,3 +23,4 @@ public class StockController : ControllerBase
         return new ObjectResult(result) { StatusCode = result.StatusCode };
     }
 }
+
