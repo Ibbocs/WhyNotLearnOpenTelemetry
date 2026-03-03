@@ -860,11 +860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
+      "projectUniqueName": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
       "projectName": "OpenTelemetry.Console",
-      "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
+      "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
       "packagesPath": "/Users/ibbocs/.nuget/packages/",
-      "outputPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/obj/",
+      "outputPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ibbocs/.nuget/NuGet/NuGet.Config"

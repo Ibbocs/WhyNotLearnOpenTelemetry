@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "leOKZRP0DnE=",
+  "dgSpecHash": "27jw05GMk4k=",
   "success": true,
-  "projectFilePath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
+  "projectFilePath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Console/OpenTelemetry.Console.csproj",
   "expectedPackageFiles": [
     "/Users/ibbocs/.nuget/packages/google.protobuf/3.19.4/google.protobuf.3.19.4.nupkg.sha512",
     "/Users/ibbocs/.nuget/packages/grpc.core.api/2.52.0/grpc.core.api.2.52.0.nupkg.sha512",

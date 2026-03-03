@@ -6965,11 +6965,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Order.Api/Order.Api.csproj",
+      "projectUniqueName": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Order.Api/Order.Api.csproj",
       "projectName": "Order.Api",
-      "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Order.Api/Order.Api.csproj",
+      "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Order.Api/Order.Api.csproj",
       "packagesPath": "/Users/ibbocs/.nuget/packages/",
-      "outputPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Order.Api/obj/",
+      "outputPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Order.Api/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ibbocs/.nuget/NuGet/NuGet.Config"
@@ -6984,14 +6984,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Common.Shared/Common.Shared.csproj": {
-              "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Common.Shared/Common.Shared.csproj"
+            "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Common.Shared/Common.Shared.csproj": {
+              "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Common.Shared/Common.Shared.csproj"
             },
-            "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj": {
-              "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj"
+            "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj": {
+              "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj"
             },
-            "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj": {
-              "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj"
+            "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj": {
+              "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj"
             }
           }
         }

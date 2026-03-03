@@ -2276,11 +2276,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj",
+      "projectUniqueName": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj",
       "projectName": "Logging.Shared",
-      "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj",
+      "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Logging.Shared/Logging.Shared.csproj",
       "packagesPath": "/Users/ibbocs/.nuget/packages/",
-      "outputPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Logging.Shared/obj/",
+      "outputPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Logging.Shared/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ibbocs/.nuget/NuGet/NuGet.Config"

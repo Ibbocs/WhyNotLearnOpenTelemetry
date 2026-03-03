@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj": {}
+    "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj": {}
   },
   "projects": {
-    "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj": {
+    "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj",
+        "projectUniqueName": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj",
         "projectName": "OpenTelemetry.Shared",
-        "projectPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj",
+        "projectPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/OpenTelemetry.Shared.csproj",
         "packagesPath": "/Users/ibbocs/.nuget/packages/",
-        "outputPath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/obj/",
+        "outputPath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/OpenTelemetry.Shared/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/ibbocs/.nuget/NuGet/NuGet.Config"

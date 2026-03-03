@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QSFWzyCMTjk=",
+  "dgSpecHash": "u5N+VDb1ndI=",
   "success": true,
-  "projectFilePath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Order.Api/Order.Api.csproj",
+  "projectFilePath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Order.Api/Order.Api.csproj",
   "expectedPackageFiles": [
     "/Users/ibbocs/.nuget/packages/azure.core/1.38.0/azure.core.1.38.0.nupkg.sha512",
     "/Users/ibbocs/.nuget/packages/azure.identity/1.11.4/azure.identity.1.11.4.nupkg.sha512",

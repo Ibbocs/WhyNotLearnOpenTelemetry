@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5YCx3RmiA0M=",
+  "dgSpecHash": "J7t2qZzT/sc=",
   "success": true,
-  "projectFilePath": "/Users/ibbocs/Desktop/Files/udemy/Projects/WhyNotLearnOpenTelemetry/Stock.Api/Stock.Api.csproj",
+  "projectFilePath": "/Users/ibbocs/Desktop/WhyNotLearnOpenTelemetry/Stock.Api/Stock.Api.csproj",
   "expectedPackageFiles": [
     "/Users/ibbocs/.nuget/packages/elastic.channels/0.14.0/elastic.channels.0.14.0.nupkg.sha512",
     "/Users/ibbocs/.nuget/packages/elastic.commonschema/9.0.0/elastic.commonschema.9.0.0.nupkg.sha512",
